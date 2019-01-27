@@ -1,0 +1,3 @@
+export const CONTACTS_SET = 'CONTACTS_SET';
+export const CONTACTS_START = 'CONTACTS_START';
+export const CONTACTS_END = 'CONTACTS_END';
